@@ -1,0 +1,229 @@
+Delivered-To: laguardia.james@gmail.com
+Received: by 10.76.154.1 with SMTP id vk1csp538227oab;
+        Tue, 2 Sep 2014 06:41:49 -0700 (PDT)
+X-Received: by 10.52.165.129 with SMTP id yy1mr268664vdb.57.1409665309482;
+        Tue, 02 Sep 2014 06:41:49 -0700 (PDT)
+Return-Path: <nina@cloudspace.com>
+Received: from mail-vc0-f171.google.com (mail-vc0-f171.google.com [209.85.220.171])
+        by mx.google.com with ESMTPS id o4si2286242vcy.87.2014.09.02.06.41.49
+        for <laguardia.james@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 02 Sep 2014 06:41:49 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning nina@cloudspace.com does not designate 209.85.220.171 as permitted sender) client-ip=209.85.220.171;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning nina@cloudspace.com does not designate 209.85.220.171 as permitted sender) smtp.mail=nina@cloudspace.com
+Received: by mail-vc0-f171.google.com with SMTP id id10so6934842vcb.2
+        for <laguardia.james@gmail.com>; Tue, 02 Sep 2014 06:41:49 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=akH4hjfTj3Lkfa6fOtYqVYluSfwqsW4iba0/KZexv+w=;
+        b=g56idoYpb44hN7LPZx21rPEfDCn3O5U0PVBlnXMsfOh9NLpmZIg4KkKWB0IHhSYdvT
+         1Y2znlSWUixdPqwlNbiEYVfQUn9huscufEQqggc0rH4TEqouLIiVQIy5/azxl0Q+suBV
+         gGG+Gd/CmbJWH1birIs29Bc+uIrmY5FhqWQb8qNFHs0OeuK225amqpTEsQE0TRxHAPK+
+         BfHo99IXMWxpc3otEj91RqsqXGlrr7FKNIzTwUd6aSPv774wNvNUmdGLZpLaP6VDOdaq
+         3UB/ZvsUWQyl+vZHoXpthxQseIjY6xcAkOW871EnCLDTeqmbm9EKP85NxyM7X8XOx/5n
+         uHYQ==
+X-Gm-Message-State: ALoCoQkIIX3OeSxH11mvvJ8vZvP8V0jzb4Y4xpVo+h92y8ziJ+h05wpTyWNlXodDefbUhSRmsGh7
+MIME-Version: 1.0
+X-Received: by 10.220.182.73 with SMTP id cb9mr30622478vcb.9.1409665309296;
+ Tue, 02 Sep 2014 06:41:49 -0700 (PDT)
+Received: by 10.220.223.72 with HTTP; Tue, 2 Sep 2014 06:41:49 -0700 (PDT)
+In-Reply-To: <CAOYwLjpgPsSD+F4wDoL9KNtPwELfJ7zW=C43t=ycX1mX=m=U1g@mail.gmail.com>
+References: <CAOYwLjpgPsSD+F4wDoL9KNtPwELfJ7zW=C43t=ycX1mX=m=U1g@mail.gmail.com>
+Date: Tue, 2 Sep 2014 09:41:49 -0400
+Message-ID: <CAL-NqX-tcg0xs1QfkG+tAGve6QP1atNefKd0nvidv8Euv_1nFw@mail.gmail.com>
+Subject: Re: CL: Android/Web Developer listings
+From: Nina Talley <nina@cloudspace.com>
+To: James Laguardia <laguardia.james@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1132f17e0350280502154885
+
+--001a1132f17e0350280502154885
+Content-Type: text/plain; charset=UTF-8
+
+James,
+
+Thanks so much for your interest! Before we bring applicants in for an
+interview, we ask that they complete the included coding practical. It's
+the best way for us to get a real handle on your skill-set. Please let me
+know if you have any questions, thanks!
+
+*Java Coding Practical*
+
+*Parsing an Email*
+
+What do we mean by parse an email? Go to Gmail, open an incoming email, and
+do View Original. You should see a text file of a raw email. The goal here
+is to parse that and extract relevant fields.
+This is actually a very difficult thing and a proper implementation could
+take months. However, it's possible to do the basics, without handling all
+of the intricacies, in a few hours.
+
+*Your goals:*
+
+   - Take in an email and parse it into relevant fields. Figure out what
+   those relevant fields are.
+   - Create a good foundation. Try to write extensible/maintainable code.
+   - When you're done, list out next steps you'd take in your
+   implementation. Eg, 'I'd focus on handling different MIME types in the
+   body', etc.
+   - Don't use a library like TMail that does parsing for you, but feel
+   free to use any non- email-specific libraries you want to.
+
+*A few notes about your goals:*
+
+   - The directions are purposefully vague. Make decisions on what you
+   think is best for the goal you're trying to accomplish. Feel free to tell
+   us why you made certain decisions in your summary.
+   - Use the RFC Email Specs as a starting point to help you parse the
+   email.
+   - Google is your friend!
+
+
+
+On Fri, Aug 29, 2014 at 3:43 PM, James Laguardia <laguardia.james@gmail.com>
+wrote:
+
+> Hello, my name is James Laguardia and I want to express my great interest
+> in your job listing here:
+> http://orlando.craigslist.org/sof/4606573741.html
+> Attached is my resume.
+>
+> I have an A.S. degree in Computer Programming and Analysis, and I am
+> currently pursuing a B.A.S. in Software Development at UCF starting Spring.
+> I am experienced using Java, C#, HTML, JavaScript, some C++, Pyhton, C and
+> PHP. I have worked on creating Android and PC applications using SQL and
+> SQLite to read and write data from a database stored locally on the same
+> machine.
+>
+> I am always eager to learn more to expand my current knowledge and would
+> be grateful if you were to give me a chance. Thank you for considering and
+> taking the time to read this email and short resume.
+>
+> GitHub account (Haven't used in a very long time):
+> https://github.com/StarPrism
+> Source Code / Repository: On the above github account, I will upload a few
+> of my C# scripts I've been working on for my Android Game I have been
+> working on for the past couple of months within the next 24 hours.
+>
+
+
+
+-- 
+<http://www.cloudspace.com>Nina TalleyAccount ManagerOffice: 877.823.8808
+
+11551 University Blvd, Suite 2
+
+Orlando, FL 32817
+
+--001a1132f17e0350280502154885
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">James,<div><br></div><div><div style=3D"font-family:arial,=
+sans-serif;font-size:12.7272720336914px">Thanks so much for your interest! =
+Before we bring applicants in for an interview, we ask that they complete t=
+he included coding=C2=A0<span class=3D"">practical</span>. It&#39;s the bes=
+t way for us to get a real handle on your skill-set. Please let me know if =
+you have any questions, thanks!</div>
+<div style=3D"font-family:arial,sans-serif;font-size:12.7272720336914px"><b=
+r></div><div style=3D"font-family:arial,sans-serif;font-size:12.72727203369=
+14px"><p style=3D"font-size:12.7272720336914px"><b><font color=3D"#000000">=
+<span class=3D"">Java</span>=C2=A0Coding=C2=A0<span style=3D"color:rgb(34,3=
+4,34)"><span class=3D"">Practical</span></span></font></b></p>
+<p style=3D"font-size:12.7272720336914px"><b><font color=3D"#000000">Parsin=
+g an Email</font></b></p><p style=3D"font-size:12.7272720336914px"><font co=
+lor=3D"#000000">What do we mean by parse an email? Go to Gmail, open an inc=
+oming email, and do View Original. You should see a text file of a raw emai=
+l. The goal here is to parse that and extract relevant fields.<br>
+This is actually a very difficult thing and a proper implementation could t=
+ake months. However, it&#39;s possible to do the basics, without handling a=
+ll of the intricacies, in a few hours.</font></p><p style=3D"font-size:12.7=
+272720336914px">
+<b><font color=3D"#000000">Your goals:</font></b></p><ul style=3D"font-size=
+:12.7272720336914px"><li style=3D"margin-left:15px"><font color=3D"#000000"=
+>Take in an email and parse it into relevant fields. Figure out what those =
+relevant fields are.</font></li>
+<li style=3D"margin-left:15px"><font color=3D"#000000">Create a good founda=
+tion. Try to write extensible/maintainable=C2=A0code.</font></li><li style=
+=3D"margin-left:15px"><font color=3D"#000000">When you&#39;re done, list ou=
+t next steps you&#39;d take in your implementation. Eg, &#39;I&#39;d focus =
+on handling different MIME types in the body&#39;, etc.</font></li>
+<li style=3D"margin-left:15px"><font color=3D"#000000">Don&#39;t use a libr=
+ary like TMail that does parsing for you, but feel free to use any non- ema=
+il-specific libraries you want to.</font></li></ul><div style=3D"font-size:=
+12.7272720336914px">
+<font color=3D"#000000"><b>A few notes about your goals:</b><br></font><ul>=
+<li style=3D"margin-left:15px"><font color=3D"#000000">The directions are p=
+urposefully vague. Make decisions on what you think is best for the goal yo=
+u&#39;re trying to accomplish. Feel free to tell us why you made certain de=
+cisions in your summary.</font></li>
+<li style=3D"margin-left:15px"><font color=3D"#000000">Use the RFC Email Sp=
+ecs as a starting point to help you parse the email.</font></li><li style=
+=3D"margin-left:15px"><font color=3D"#000000">Google is your friend!</font>=
+</li></ul>
+</div></div></div></div><div class=3D"gmail_extra"><br><br><div class=3D"gm=
+ail_quote">On Fri, Aug 29, 2014 at 3:43 PM, James Laguardia <span dir=3D"lt=
+r">&lt;<a href=3D"mailto:laguardia.james@gmail.com" target=3D"_blank">lagua=
+rdia.james@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr"><div style=3D"font-family:a=
+rial,sans-serif;font-size:13px">Hello, my name is James Laguardia and I wan=
+t to express my great interest in your job listing here:=C2=A0<a href=3D"ht=
+tp://orlando.craigslist.org/sof/4606573741.html" target=3D"_blank">http://o=
+rlando.craigslist.org/sof/4606573741.html</a><div>
+
+Attached is my resume.</div></div><div style=3D"font-family:arial,sans-seri=
+f;font-size:13px"><br></div><div style=3D"font-family:arial,sans-serif;font=
+-size:13px">I have an A.S. degree in Computer Programming and Analysis, and=
+ I am currently pursuing a B.A.S. in Software Development at UCF starting S=
+pring. I am experienced using Java, C#, HTML, JavaScript, some C++, Pyhton,=
+ C and PHP. I have worked on creating Android and PC applications using SQL=
+ and SQLite to read and write data from a database stored locally on the sa=
+me machine.</div>
+
+<div style=3D"font-family:arial,sans-serif;font-size:13px"><br></div><div s=
+tyle=3D"font-family:arial,sans-serif;font-size:13px">I am always eager to l=
+earn more to expand my current knowledge and would be grateful if you were =
+to give me a chance. Thank you for considering and taking the time to read =
+this email and short resume.</div>
+
+<div style=3D"font-family:arial,sans-serif;font-size:13px"><br></div><div s=
+tyle=3D"font-family:arial,sans-serif;font-size:13px">GitHub account (Haven&=
+#39;t used in a very long time):=C2=A0<a href=3D"https://github.com/StarPri=
+sm" target=3D"_blank">https://github.com/StarPrism</a></div>
+
+<div style=3D"font-family:arial,sans-serif;font-size:13px">Source Code / Re=
+pository: On the above github account, I will upload a few of my C# scripts=
+ I&#39;ve been working on for my Android Game I have been working on for th=
+e past couple of months within the next 24 hours.</div>
+
+</div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div dir=3D"=
+ltr"><span style=3D"font-family:arial,sans-serif;font-size:13px;border-coll=
+apse:collapse"><table style=3D"font-family:georgia,sans-serif;color:rgb(0,1=
+18,163);font-size:16px">
+<tbody><tr><td width=3D"351" style=3D"margin-top:0px;margin-right:0px;margi=
+n-bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:left"><a hr=
+ef=3D"http://www.cloudspace.com" target=3D"_blank"><img src=3D"http://logo.=
+cloudspace.com/cloudspace-originalcolor.png"></a></td>
+</tr><tr><td width=3D"351" style=3D"margin-top:0px;margin-right:0px;margin-=
+bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:left">Nina Ta=
+lley</td></tr><tr><td width=3D"351" style=3D"margin-top:0px;margin-right:0p=
+x;margin-bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:left=
+">
+Account Manager</td></tr><tr><td style=3D"margin-top:0px;margin-right:0px;m=
+argin-bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:left">O=
+ffice: 877.823.8808</td></tr><tr><td style=3D"margin-top:0px;margin-right:0=
+px;margin-bottom:0px;margin-left:0px;font-family:arial,sans-serif;float:lef=
+t">
+<p style=3D"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-le=
+ft:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px">1=
+1551 University Blvd, Suite 2</p><p style=3D"padding-top:0px;padding-right:=
+0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;mar=
+gin-bottom:0px;margin-left:0px">
+Orlando, FL 32817</p></td></tr></tbody></table></span></div>
+</div>
+
+--001a1132f17e0350280502154885--

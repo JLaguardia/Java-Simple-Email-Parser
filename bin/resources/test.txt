@@ -1,0 +1,53 @@
+Delivered-To: laguardia.james@gmail.com
+Received: by 10.76.154.1 with SMTP id vk1csp961115oab;
+        Thu, 4 Sep 2014 20:45:53 -0700 (PDT)
+X-Received: by 10.224.136.130 with SMTP id r2mr14387226qat.66.1409888753023;
+        Thu, 04 Sep 2014 20:45:53 -0700 (PDT)
+Return-Path: <electron1121@bellsouth.net>
+Received: from nm17-vm6.access.bullet.mail.bf1.yahoo.com (nm17-vm6.access.bullet.mail.bf1.yahoo.com. [216.109.115.69])
+        by mx.google.com with ESMTPS id t95si76870qgd.14.2014.09.04.20.45.52
+        for <laguardia.james@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Thu, 04 Sep 2014 20:45:53 -0700 (PDT)
+Received-SPF: none (google.com: electron1121@bellsouth.net does not designate permitted sender hosts) client-ip=216.109.115.69;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: electron1121@bellsouth.net does not designate permitted sender hosts) smtp.mail=electron1121@bellsouth.net;
+       dkim=pass (test mode) header.i=@bellsouth.net
+Received: from [66.196.81.165] by nm17.access.bullet.mail.bf1.yahoo.com with NNFMP; 05 Sep 2014 03:45:52 -0000
+Received: from [66.196.81.144] by tm11.access.bullet.mail.bf1.yahoo.com with NNFMP; 05 Sep 2014 03:45:52 -0000
+Received: from [127.0.0.1] by omp1020.access.mail.bf1.yahoo.com with NNFMP; 05 Sep 2014 03:45:52 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 626201.49802.bm@omp1020.access.mail.bf1.yahoo.com
+Received: (qmail 50529 invoked by uid 60001); 5 Sep 2014 03:45:52 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bellsouth.net; s=s1024; t=1409888752; bh=Qd9948zakbuMBEXi+jcyJHLE3ag0RYnK+TojyVEtx/c=; h=Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=eRVnLReGGzQF8ccXLPMsgFfGEvGvkZnDzMC2fyOXD66VeJj2J62ElovHFht4aeIBdD6NSNofdfjdT5Vimki1E/omOObkVbO4GnZkrMRExyU9gB2XT41YcqFHn45cQ0nZRis/q8BDhyfg/+fcvuUNz3ZNCUNtniRclxHlJdo8W14=
+X-YMail-OSG: JVRH4BAVM1mnxQudFsIv.BqFIZ3uK8_6INxCc34l.0fpG3O
+ e.vot7RcbPSDcjHCdn64yyTxnQdxdTW0Bsi2NnO_tLlcUZYN.zkLOgAFJjnN
+ 34xzVwr7aX_OhTz7M8qwY3aEz8xK1S_4BmkvIjmHwifMfPRLTPO_roR.urSa
+ pXjYf6lZb2rmF9NoTpSdtZj8C.r22m7DW15vsFtQHRFF8cMElfDSH.9Ef.4f
+ ytrT2mds6.osHvAnQzn5o1syxYcJwES.mOS5myx46eSBsshz_yZy4fPeNo5H
+ ycxKK0tfXeuVW_0x0MxnQybjijDDhZy8InwR9gQb1bBlUeOlMbs_N8sGvycJ
+ CeJEHa6DsWF9IytKG437EufdTzipHczoAxenjuNeikSjbHR7D8CMqoUyeaf5
+ nAZy9AiFwRlQ.__QFnpp9M7lcfNhQMN3CoES.zgRzknIFqaniMgnGvwGLc1v
+ gDT6RuFfendlfZU3kAdIirDSz0Bq4WR2Gx3nZafOGbrVLxx0BNMQRwaeb0hZ
+ Qec6v1iBGp4JO8Wyi7n8-
+Received: from [99.72.53.82] by web181005.mail.ne1.yahoo.com via HTTP; Thu, 04 Sep 2014 20:45:51 PDT
+X-Rocket-MIMEInfo: 002.001,SGVsbG8sIGhvdyBhcmUgeW91IHRvZGF5PwEwAQEBAQ--
+X-Mailer: YahooMailWebService/0.8.203.696
+Message-ID: <1409888751.29334.YahooMailNeo@web181005.mail.ne1.yahoo.com>
+Date: Thu, 4 Sep 2014 20:45:51 -0700
+From: james l <electron1121@bellsouth.net>
+Reply-To: james l <electron1121@bellsouth.net>
+Subject: This is a Test
+To: "laguardia.james@gmail.com" <laguardia.james@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="2044483418-1412119090-1409888751=:29334"
+
+--2044483418-1412119090-1409888751=:29334
+Content-Type: text/plain; charset=us-ascii
+
+Hello, how are you today?
+--2044483418-1412119090-1409888751=:29334
+Content-Type: text/html; charset=us-ascii
+
+<html><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:12pt"><div>Hello, how are you today?</div></div></body></html>
+--2044483418-1412119090-1409888751=:29334--

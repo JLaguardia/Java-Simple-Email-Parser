@@ -1,0 +1,245 @@
+Return-Path: <CgdXWAJtVwBUAVFRCQBQBwIABwAMDmxRDlhWBlpbRwBdXHZUDAhIVwpeOQEAUQJT@ofa1.bounce.bluestatedigital.com>
+Received: from mta-inap14.bluestatedigital.com (mta-inap14.bluestatedigital.com [66.151.230.130])
+	by mtaiw-mbc04.mx.aol.com (Internet Inbound) with ESMTP id C21E8700000AE
+	for <bladelord89@aol.com>; Mon,  8 Sep 2014 11:40:38 -0400 (EDT)
+Received: from ofa0.bounce.bluestatedigital.com (localhost [127.0.0.1])
+	by mta-inap14.bluestatedigital.com (Postfix) with ESMTP id 3hsDGZ3lv2zjX9B
+	for <bladelord89@aol.com>; Mon,  8 Sep 2014 11:40:38 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=barackobama.com;
+	s=ofakey; t=1410190838;
+	bh=6uzN+u0JtqQZEOh9LqFhjQmtwH/kYhh1kraqhNMU7PI=;
+	h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:
+	 MIME-Version:Content-Type;
+	b=V3SGuibqQZKfV2reFoW3dbKSeE+u1UD5vLK2EE6ieci40XVZM2sW9cxHAW6e4xXOP
+	 GV2N+FFV8LA6lNRirPQxR+XMbbkOeHnFzJ7qbrfLNV9LkBNfysLJVqsO+Ul9isEZHk
+	 jVa/8/aCwabRFTWaLkoKAhi85mJMVoyklRMdoXRE=
+Received: from build 
+	by ofa1.bounce.bluestatedigital.com with local (PHPMailer);
+	Mon, 8 Sep 2014 11:40:38 -0400
+Date: Mon, 8 Sep 2014 11:40:38 -0400
+To: James Laguardia <bladelord89@aol.com>
+From: "Nico Probst, BarackObama.com" <info@barackobama.com>
+Reply-to: info@barackobama.com
+Subject: We admit it ... this is pretty absurd
+Message-ID: <2fdd615223fb1cf380da38d2b5878e70@ofa1.bounce.bluestatedigital.com>
+X-Priority: 3
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 1412ad8ecfa97289
+X-rpcampaign: rp_126505
+X-maillist-guid: CgdXWAJtVwBUAVFRCQBQBwIABwAMDmxRDlhWBlpbRwBdXHZUDAhIVwpeOQEAUQJT
+List-Unsubscribe: <https://my.barackobama.com/unsubscribe?email=bladelord89@aol.com>, <mailto:CgdXWAJtVwBUAVFRCQBQBwIABwAMDmxRDlhWBlpbRwBdXHZUDAhIVwpeOQEAUQJT@ofa1.bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2fdd615223fb1cf380da38d2b5878e70"
+x-aol-global-disposition: G
+x-aol-unsub: 1
+X-AOL-SCOLL-AUTHENTICATION: mtaiw-mbc04.mx.aol.com ; domain : barackobama.com DKIM : pass
+Authentication-Results: mx.aol.com;
+	spf=pass (aol.com: the domain ofa1.bounce.bluestatedigital.com reports 66.151.230.130 as a permitted sender.) smtp.mailfrom=ofa1.bounce.bluestatedigital.com;
+	dkim=pass (aol.com: email passed verification from the domain barackobama.com.) header.d=barackobama.com;
+x-aol-sid: 3039ac1add8a540dcdf61dec
+X-AOL-IP: 66.151.230.130
+X-AOL-SPF: domain : ofa1.bounce.bluestatedigital.com SPF : pass
+
+
+--b1_2fdd615223fb1cf380da38d2b5878e70
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Friend --
+
+Think of all the things John Boehner has said he can't -- or
+won't -- do. On everything from the minimum wage to
+comprehensive immigration reform, his list of excuses is
+long and getting longer.
+
+With Congress returning to session this week, we thought
+maybe Speaker Boehner could use a pep talk.
+
+Check out our video message for John Boehner -- and add
+your name to demand better from the Speaker of the House:
+
+http://my.barackobama.com/Speaker-Boehner-Can-Do-Better
+
+We admit: This is pretty absurd.
+
+But then again, so is the nonsense we've seen from the House
+of Representatives -- suing the President, voting to strip
+deportation protections from DREAMers, and threatening to
+shut down the government (again).
+
+We refuse to accept that gridlock and cynicism need to be
+permanent fixtures on Capitol Hill.
+
+The American people deserve better. We sent representatives =20
+all there to work for us, and we're going to demand that they at=20
+least try to do that.
+
+Maybe it starts with reminding John Boehner he has the power
+to be a leader -- it's worth a shot:=20
+
+http://my.barackobama.com/Speaker-Boehner-Can-Do-Better
+
+Thanks,=20
+
+Nico
+
+Nico Probst
+Director of Special Projects
+Organizing for Action
+
+---------------------------------------------------------------------
+Paid for by Organizing for Action
+
+Contributions or gifts to Organizing for Action are not tax deductible.
+
+This email was sent to: bladelord89@aol.com
+To update your address, go to: =
+http://my.barackobama.com/change-address?email=3Dbladelord89@aol.com
+To unsubscribe from these messages, go to: =
+http://my.barackobama.com/unsubscription
+Organizing for Action, P.O. Box 618120 Chicago, IL 60661
+
+
+--b1_2fdd615223fb1cf380da38d2b5878e70
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"ISO-8859-1"??>
+<html =
+xmlns=3D"http://www.w3.org/1999/xhtml"><head><title></title></head><body>
+	   <style type=3D"text/css">
+	       a { color:#008FC5; }
+	       @media only screen and (max-device-width: 480px) {
+	           .hide-img {display: none;}
+	       }
+	   </style><table width=3D"100%" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" bgcolor=3D"white" style=3D"padding-top:10px;"><tr><td =
+align=3D"center"><img src=3D"http://secure.assets.bostatic.com/email/OFA-l=
+ogo_horizontal_RGB_email_retina.png" width=3D"250" alt=3D"Organizing for =
+Action" height=3D"60" border=3D"0" style=3D"display:block; border:none; =
+outline:none;"></td>
+	       </tr><tr><td style=3D"font-family:arial, helvetica, sans-serif; =
+font-size:16px; color:#333333; padding-top:20px; padding-bottom:20px; =
+line-height:1.4;">
+                    Friend -- <br><br>
+
+Think of all the things John Boehner has said he can't -- or won't -- do. =
+On everything from the minimum wage to comprehensive immigration reform, =
+his list of excuses is long and getting longer.<br><br>=20
+
+With Congress returning to session this week, we thought maybe Speaker =
+Boehner could use a pep talk. <br><br><strong><a href=3D"https://my.barack=
+obama.com/page/m/55c18347/6d7a0c5c/44def87ea/1b39710d/3867576718/VEsH/p/ey=
+JKU1ZEVlZOVVQwMWZSRUZVUVZORlZGdHpiSFZuUFdadmJHUmxjbDlrWVhSaGMyVjBMR3RsZVQx=
+bWIyeGtaWEpmYUdGemFGMGxKUT09IjoiIiwiSlNWRFZWTlVUMDFmUkVGVVFWTkZWRnR6YkhWbl=
+BXWnBiR1ZmWkdGMFlYTmxkQ3hyWlhrOVptbHNaVjlvWVhOb1hTVWwiOiIiLCJKU1ZGVFVGSlRD=
+VWwiOiJibGFkZWxvcmQ4OUBhb2wuY29tIiwiSlNWYVNWQWxKUT09IjoiMzI4MjIifQ=3D=3D/" =
+title=3D"http://my.barackobama.com/Speaker-Boehner-Can-Do-Better1?keycode=
+=3D&amp;email=3Dbladelord89@aol.com&amp;zip=3D32822&amp;utm_medium=3Demail=
+&amp;utm_source=3Dobama&amp;utm_content=3D1+-+Check+out+our+video+message+=
+for+John+Boe&amp;utm_campaign=3Dem14_x_ofa_20140904_x_x_ofa_OFA&amp;source=
+=3Dem14_x_ofa_20140904_x_x_ofa_OFA">Check out our video message for John =
+Boehner -- and add your name to demand better from the Speaker of the =
+House.</a></strong><br><br><div align=3D"middle"><a href=3D"https://my.bar=
+ackobama.com/page/m/55c18347/6d7a0c5c/44def87ea/1b397103/3867576718/VEsE/p=
+/eyJKU1ZEVlZOVVQwMWZSRUZVUVZORlZGdHpiSFZuUFdadmJHUmxjbDlrWVhSaGMyVjBMR3RsZ=
+VQxbWIyeGtaWEpmYUdGemFGMGxKUT09IjoiIiwiSlNWRFZWTlVUMDFmUkVGVVFWTkZWRnR6Ykh=
+WblBXWnBiR1ZmWkdGMFlYTmxkQ3hyWlhrOVptbHNaVjlvWVhOb1hTVWwiOiIiLCJKU1ZGVFVGS=
+lRDVWwiOiJibGFkZWxvcmQ4OUBhb2wuY29tIiwiSlNWYVNWQWxKUT09IjoiMzI4MjIifQ=3D=
+=3D/" title=3D"http://my.barackobama.com/Speaker-Boehner-Can-Do-Better1?ke=
+ycode=3D&amp;email=3Dbladelord89@aol.com&amp;zip=3D32822&amp;utm_medium=3D=
+email&amp;utm_source=3Dobama&amp;utm_content=3D2&amp;utm_campaign=3Dem14_x=
+_ofa_20140904_x_x_ofa_OFA&amp;source=3Dem14_x_ofa_20140904_x_x_ofa_OFA"><i=
+mg src=3D"https://secure.assets.bostatic.com/apps/madison/media/filer_publ=
+ic/2014/09/05/pep_talk-play.jpg" alt=3D"Check out this pep talk for =
+Speaker Boehner!" border=3D"0" height=3D"" width=3D"570"></a></div><br>
+
+We admit: This is pretty absurd. <br><br>=20
+
+But then again, so is the nonsense we've seen from the House of =
+Representatives -- suing the President, voting to strip deportation =
+protections from DREAMers, and threatening to shut down the government =
+(again). <br><br>=20
+
+We refuse to accept that gridlock and cynicism need to be permanent =
+fixtures on Capitol Hill. <br><br>=20
+
+The American people deserve better. We sent these representatives all =
+there to work for us, and we're going to demand that they at least try to =
+do that.<br><br><strong>Maybe it starts with reminding John Boehner he has =
+the power to be a leader -- it's worth a shot:</strong><br><br><strong><a =
+href=3D"https://my.barackobama.com/page/m/55c18347/6d7a0c5c/44def87ea/1b39=
+7138/3867576718/VEsF/p/eyJKU1ZEVlZOVVQwMWZSRUZVUVZORlZGdHpiSFZuUFdadmJHUmx=
+jbDlrWVhSaGMyVjBMR3RsZVQxbWIyeGtaWEpmYUdGemFGMGxKUT09IjoiIiwiSlNWRFZWTlVUM=
+DFmUkVGVVFWTkZWRnR6YkhWblBXWnBiR1ZmWkdGMFlYTmxkQ3hyWlhrOVptbHNaVjlvWVhOb1h=
+TVWwiOiIiLCJKU1ZGVFVGSlRDVWwiOiJibGFkZWxvcmQ4OUBhb2wuY29tIiwiSlNWYVNWQWxKU=
+T09IjoiMzI4MjIifQ=3D=3D/" title=3D"http://my.barackobama.com/Speaker-Boehn=
+er-Can-Do-Better1?keycode=3D&amp;email=3Dbladelord89@aol.com&amp;zip=3D328=
+22&amp;utm_medium=3Demail&amp;utm_source=3Dobama&amp;utm_content=3D3+-+htt=
+pmybarackobamacomSpeakerBoehnerCanDoB&amp;utm_campaign=3Dem14_x_ofa_201409=
+04_x_x_ofa_OFA&amp;source=3Dem14_x_ofa_20140904_x_x_ofa_OFA">http://my.bar=
+ackobama.com/Speaker-Boehner-Can-Do-Better</a></strong><br><br>
+
+Thanks,<br><br>=20
+
+Nico<br><br>
+
+Nico Probst<br>
+Director of Special Projects<br>
+Organizing for =
+Action<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+	       </tr><tr><td align=3D"center">
+
+<table border=3D"1" bordercolor=3D"777777" cellpadding=3D"10" =
+cellspacing=3D"0" style=3D"border: 1px solid #777"><tr><td border=3D"0" =
+style=3D"border: 0; padding: 10px" align=3D"center">
+                 <font size=3D"1" face=3D"&#039;Helvetica =
+Neue&#039;,Helvetica,Segoe,&#039;Segoe UI&#039;,&#039;Segoe =
+WP&#039;,Calibri,Arial,clean,sans-serif" style=3D"font-size: 10px; =
+text-transform: uppercase;" color=3D"555555">
+                 Paid for by Organizing for Action
+                 </font>
+             </td>
+         </tr></table></td></tr><tr><td align=3D"center">
+	               <p style=3D"font-size:9px; color:#555555; margin-top:10px; =
+margin-bottom:0px; font-family:arial, helvetica, =
+sans-serif;">Contributions or gifts to Organizing for Action are not tax =
+deductible.</p>
+	            =20
+
+	           </td>
+	       </tr><tr><td align=3D"center">
+	               <br><p style=3D"font-size:9px; color:#555555; =
+margin-top:2px; font-family:arial, helvetica, sans-serif;">
+	                 This email was sent to: <b>bladelord89@aol.com</b>.<br>
+If that is not your preferred email address, you can update your =
+information <a href=3D"https://my.barackobama.com/page/m/55c18347/6d7a0c5c=
+/44def87ea/1b397134/3867576718/VEsC/p/eyJKU1ZGVFVGSlRDVWwiOiJibGFkZWxvcmQ4=
+OUBhb2wuY29tIn0=3D/" style=3D"color:#000001;" title=3D"http://my.barackoba=
+ma.com/change-address?email=3Dbladelord89@aol.com&amp;utm_medium=3Demail&a=
+mp;utm_source=3Dobama&amp;utm_content=3D4+-+here&amp;utm_campaign=3Dem14_x=
+_ofa_20140904_x_x_ofa_OFA&amp;source=3Dem14_x_ofa_20140904_x_x_ofa_OFA">he=
+re</a>. We believe that emails are a vital way to stay in direct contact =
+with supporters. Click  <a href=3D"https://my.barackobama.com/page/m/55c18=
+347/6d7a0c5c/44def87ea/1b397131/3867576718/VEsD/" style=3D"color:#000001;" =
+title=3D"http://my.barackobama.com/unsubscription?&amp;utm_medium=3Demail&=
+amp;utm_source=3Dobama&amp;utm_content=3D5+-+here&amp;utm_campaign=3Dem14_=
+x_ofa_20140904_x_x_ofa_OFA&amp;source=3Dem14_x_ofa_20140904_x_x_ofa_OFA">h=
+ere</a> if you'd like to unsubscribe from these messages.<br>Organizing =
+for Action, P.O. Box 618120 Chicago, IL 60661</p>
+
+<img height=3D"1" width=3D"1" style=3D"border-style:none;" alt=3D"" =
+src=3D"https://googleads.g.doubleclick.net/pagead/viewthroughconversion/99=
+0142475/?value=3D0&amp;label=3Do2HhCI3y_QoQi8CR2AM&amp;guid=3DON&amp;scrip=
+t=3D0"></td>
+	       </tr></table><img src=3D"https://my.barackobama.com/page/o/55c1834=
+7/6d7a0c5c/44def87ea/1b396b26/3867576718/open.gif" width=3D"1" =
+height=3D"1"></body></html>
+
+
+
+--b1_2fdd615223fb1cf380da38d2b5878e70--
+
